@@ -79,17 +79,17 @@ help voice: information commands voice
 <br>
 
 # Commands
-<img src="./help.png">
+<img src="./img/help.png">
 <br>
-<img src="./help-voice.png">
+<img src="./img/help-voice.png">
 <br>
-<img src="./help-general.png">
+<img src="./img/help-general.png">
 <br>
-<img src="./setup-voice.png">
+<img src="./img/setup-voice.png">
 <br>
-<img src="./infos.png">
+<img src="./img/infos.png">
 <br>
-<img src="./change-name.png">
+<img src="./img/change-name.png">
 <br>
 
 
