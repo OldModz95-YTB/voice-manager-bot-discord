@@ -1,0 +1,4 @@
+1- Folder botconfig
+2- Add token and prefix
+3- npm i
+4- node.

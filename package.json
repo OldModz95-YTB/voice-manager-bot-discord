@@ -1,0 +1,41 @@
+{
+  "name": "voice-manager",
+  "version": "5.0.2",
+  "description": "Voice Manager channel",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^13.3.1",
+    "enmap": "^5.8.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OldModz95-YTB/voice-manager-bot-discord.git"
+  },
+  "keywords": [
+    "application",
+    "apply",
+    "discord",
+    "bot",
+    "discordjs",
+    "developer",
+    "Milrato",
+    "easy",
+    "easiest",
+    "advanced",
+    "good",
+    "fast",
+    "emojis",
+    "reactions"
+  ],
+  "author": "OldModz95#3105",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/OldModz95-YTB/voice-manager-bot-discord"
+  },
+  "homepage": "https://shop.protondev.eu"
+}
